@@ -1,0 +1,31 @@
+_repo: Reed-Anthony-Cowman--An-Autobiography_12884
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, Andy
+    birthdate: 1859
+    deathdate: 1935
+    gutenberg_agent_id: '773'
+    url: http://www.gutenberg.org/2009/agents/773
+    wikipedia: http://en.wikipedia.org/wiki/Andy_Adams_%28writer%29
+description: The history of the Western United States is full of self-made men who
+  came from meager circumstances and metamorphosed into rich and powerful tycoons.
+  The engaging and gritty novel Reed Anthony, Cowman is a fictionalized but exceedingly
+  realistic account of one such figure who rose through the ranching ranks to became
+  a formidable businessman.
+gutenberg_bookshelf: Western
+gutenberg_issued: '2004-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12884'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ranchers -- Fiction'
+- !lcsh 'Texas -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Reed Anthony, Cowman: An Autobiography'
+url: http://www.gutenberg.org/ebooks/12884
